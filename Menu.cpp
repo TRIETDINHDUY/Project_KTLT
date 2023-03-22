@@ -13,7 +13,7 @@ void quit()
 
 void login(string &email)
 {
-    drawRectangle(30, 10, 40, 15);
+    //drawRectangle(30, 10, 40, 15);
     // putchar(218);
     // for (int i = 0; i < 43; i++) {
     //     putchar(196);
